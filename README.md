@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yarenekenel/Social-Proof-Section)
-- Live Site URL: [Live Site](https://yarenekenel.github.io/Social-Proof-Section/)
+- Solution URL: [GitHub Repository](https://github.com/yarenekenel/Testimonials-Grid-Section)
+- Live Site URL: [Live Site](https://yarenekenel.github.io/Testimonials-Grid-Section/)
 
 ## My process
 
@@ -37,17 +37,17 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- [Bootstrap](https://getbootstrap.com/) - CSS framework
 - Flexbox
+- CSS Grid
 - Responsive design
 
 ### What I learned
 
-While working on this project, I practiced building a multi-card testimonial layout with Bootstrap's grid system. I learned how to make cards of different sizes fit together and adapt the layout for both mobile and desktop screens.
+While working on this project, I practiced building a multi-card testimonial layout with pure CSS. I learned how to make cards of different sizes fit together and adapt the layout for both mobile and desktop screens using media queries.
 
 ### Continued development
 
-In future projects, I want to improve my CSS Grid skills and build complex layouts without relying on a framework.
+In future projects, I want to keep improving my CSS Grid skills and write more accessible, semantic HTML.
 
 ## Author
 
