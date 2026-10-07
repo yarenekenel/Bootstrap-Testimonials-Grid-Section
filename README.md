@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository](https://github.com/yarenekenel/Bootstrap-Testimonials-Grid-Section)
-- Live Site URL: [Live Site](https://yarenekenel.github.io/Bootstrap-Testimonials-Grid-Section/)
+- Solution URL: [GitHub Repository](https://github.com/yarenekenel/Social-Proof-Section)
+- Live Site URL: [Live Site](https://yarenekenel.github.io/Social-Proof-Section/)
 
 ## My process
 
